@@ -1,6 +1,6 @@
 # 概率与统计博客
 想要阅读更多关于人工智能技术博客，请关注微信公众号：**人工智能大讲堂**<br />  
-<img width="180" src="https://github.com/AIDajiangtang/Machine-Learning-Books/blob/a6835d5a27716357a049ef4311555e42e2a3453c/QR.jpg"><br /> 
+<img width="180" src="https://user-images.githubusercontent.com/18625471/228743333-77abe467-2385-476d-86a2-e232c6482291.jpg"><br /> 
 **专注人工智能底层数学原理和应用，专栏包括线性代数，概率统计，机器学习，深度学习。**<br /> 
 
 
@@ -223,5 +223,5 @@
 [GAN背后的数学原理](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247504649&idx=1&sn=f7f5b45fb7e69245d0b45464977a6c73&chksm=c029f60ef75e7f18ed129eddd9a95e0ca7d56d1f499ed5772ba88b17374aa9d56930be024de1#rd)<br /> 
 
 想要阅读更多关于人工智能技术博客，请关注微信公众号：**人工智能大讲堂**<br /> 
-<img width="180" src="https://github.com/AIDajiangtang/Machine-Learning-Books/blob/a6835d5a27716357a049ef4311555e42e2a3453c/QR.jpg"><br /> 
+<img width="180" src="https://user-images.githubusercontent.com/18625471/228743333-77abe467-2385-476d-86a2-e232c6482291.jpg"><br /> 
 **专注人工智能底层数学原理和应用，专栏包括线性代数，概率统计，机器学习，深度学习。**<br /> 
